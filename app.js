@@ -42,6 +42,3 @@ function pesquisar() {
 
     section.innerHTML = resultados 
 }
-
-const audio = document.getElementById('Audio');
-audio.style.display = 'none';

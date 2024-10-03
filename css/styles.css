@@ -14,11 +14,20 @@ body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
     box-sizing: border-box;
-    background-image: url(../img/1333867.jpeg);
-    backdrop-filter: blur(2px);
-    background-position: center;
-    background-size: cover;
-    background-color: rgba(255, 255, 255, 0.01);
+}
+
+#background {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+#background video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 
