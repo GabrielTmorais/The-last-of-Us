@@ -19,5 +19,26 @@ let dados = [
         link : "https://thelastofus.fandom.com/wiki/Abby_Anderson",
         imagem : src="../img/abby.png",
         logo : src="../img/vagalumes.png"
-    }
+    },
+    {
+        titulo : "Dina",
+        descricao : "Em um mundo devastado pela pandemia, Dina emerge como uma figura marcante. Forte, independente e com um passado marcado pela perda, ela encontra em Ellie uma conexão profunda. Juntas, elas enfrentam os desafios de um mundo hostil e buscam um futuro incerto.",
+        link : "https://thelastofus.fandom.com/wiki/Dina",
+        imagem : src="../img/dina.png",
+        logo : src="../img/vagalumes.png"
+    },
+    {
+        titulo : "Jesse",
+        descricao : "Jesse, um membro querido da comunidade de Jackson, é um personagem fundamental em The Last of Us Parte II. Sua lealdade, amizade e bom coração conquistam a confiança de seus companheiros. No entanto, os eventos trágicos que se desenrolam o colocam em uma jornada repleta de desafios e dilemas.",
+        link : "https://thelastofus.fandom.com/wiki/Jesse",
+        imagem : src="../img/jesse.jpg",
+        logo : src="../img/vagalumes.png"
+    },
+    {
+        titulo : "Tommy Miller",
+        descricao : "Tommy, irmão mais velho de Joel e líder de Jackson, é um personagem complexo e multifacetado em The Last of Us Part II. Seu passado turbulento e sua experiência em um mundo pós-apocalíptico o tornaram um sobrevivente resistente. No entanto, suas decisões e escolhas o colocam em um conflito interno entre seus deveres para com a comunidade e seus desejos pessoais.",
+        link : "https://thelastofus.fandom.com/wiki/Tommy_Miller",
+        imagem : src="../img/tommy.png",
+        logo : src="../img/vagalumes.png"
+    },
 ]
